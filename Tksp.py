@@ -1,5 +1,4 @@
 import tkinter as tk
-from tkinter.constants import E
 from lxml import etree
 import requests
 from urllib import parse
